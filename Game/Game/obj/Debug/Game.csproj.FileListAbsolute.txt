@@ -1,0 +1,10 @@
+C:\Users\HP\Desktop\C#\Busi_App\Game\Game\bin\Debug\Game.exe.config
+C:\Users\HP\Desktop\C#\Busi_App\Game\Game\bin\Debug\Game.exe
+C:\Users\HP\Desktop\C#\Busi_App\Game\Game\bin\Debug\Game.pdb
+C:\Users\HP\Desktop\C#\Busi_App\Game\Game\obj\Debug\Game.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\C#\Busi_App\Game\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C#\Busi_App\Game\Game\obj\Debug\Game.exe
+C:\Users\HP\Desktop\C#\Busi_App\Game\Game\obj\Debug\Game.pdb
+C:\Users\HP\Desktop\C#\Busi_App\Game\Game\bin\Debug\EZInput.dll
+C:\Users\HP\Desktop\C#\Busi_App\Game\Game\bin\Debug\EZInput.xml
+C:\Users\HP\Desktop\C#\Busi_App\Game\Game\obj\Debug\Game.csproj.Up2Date

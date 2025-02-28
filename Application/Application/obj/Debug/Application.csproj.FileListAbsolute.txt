@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\C#\Busi_App\Application\Application\bin\Debug\Application.exe.config
+C:\Users\HP\Desktop\C#\Busi_App\Application\Application\bin\Debug\Application.exe
+C:\Users\HP\Desktop\C#\Busi_App\Application\Application\bin\Debug\Application.pdb
+C:\Users\HP\Desktop\C#\Busi_App\Application\Application\obj\Debug\Application.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\C#\Busi_App\Application\Application\obj\Debug\Application.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C#\Busi_App\Application\Application\obj\Debug\Application.exe
+C:\Users\HP\Desktop\C#\Busi_App\Application\Application\obj\Debug\Application.pdb
