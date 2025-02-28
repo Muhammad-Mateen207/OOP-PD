@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\C#\LabManual-5(Task1)\LabManual-5(Task1)\bin\Debug\LabManual-5(Task1).exe.config
+C:\Users\HP\Desktop\C#\LabManual-5(Task1)\LabManual-5(Task1)\bin\Debug\LabManual-5(Task1).exe
+C:\Users\HP\Desktop\C#\LabManual-5(Task1)\LabManual-5(Task1)\bin\Debug\LabManual-5(Task1).pdb
+C:\Users\HP\Desktop\C#\LabManual-5(Task1)\LabManual-5(Task1)\obj\Debug\LabManual-5(Task1).csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\C#\LabManual-5(Task1)\LabManual-5(Task1)\obj\Debug\LabManual-5(Task1).csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C#\LabManual-5(Task1)\LabManual-5(Task1)\obj\Debug\LabManual-5(Task1).exe
+C:\Users\HP\Desktop\C#\LabManual-5(Task1)\LabManual-5(Task1)\obj\Debug\LabManual-5(Task1).pdb
+D:\OOP-PD\PD-5\Task1\LabManual-5(Task1)\bin\Debug\LabManual-5(Task1).exe.config
+D:\OOP-PD\PD-5\Task1\LabManual-5(Task1)\bin\Debug\LabManual-5(Task1).exe
+D:\OOP-PD\PD-5\Task1\LabManual-5(Task1)\bin\Debug\LabManual-5(Task1).pdb
+D:\OOP-PD\PD-5\Task1\LabManual-5(Task1)\obj\Debug\LabManual-5(Task1).csproj.AssemblyReference.cache
+D:\OOP-PD\PD-5\Task1\LabManual-5(Task1)\obj\Debug\LabManual-5(Task1).csproj.CoreCompileInputs.cache
+D:\OOP-PD\PD-5\Task1\LabManual-5(Task1)\obj\Debug\LabManual-5(Task1).exe
+D:\OOP-PD\PD-5\Task1\LabManual-5(Task1)\obj\Debug\LabManual-5(Task1).pdb

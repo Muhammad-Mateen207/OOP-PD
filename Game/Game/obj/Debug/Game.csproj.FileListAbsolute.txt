@@ -8,3 +8,13 @@ C:\Users\HP\Desktop\C#\Busi_App\Game\Game\obj\Debug\Game.pdb
 C:\Users\HP\Desktop\C#\Busi_App\Game\Game\bin\Debug\EZInput.dll
 C:\Users\HP\Desktop\C#\Busi_App\Game\Game\bin\Debug\EZInput.xml
 C:\Users\HP\Desktop\C#\Busi_App\Game\Game\obj\Debug\Game.csproj.Up2Date
+D:\OOP-PD\Game\Game\bin\Debug\Game.exe.config
+D:\OOP-PD\Game\Game\bin\Debug\Game.exe
+D:\OOP-PD\Game\Game\bin\Debug\Game.pdb
+D:\OOP-PD\Game\Game\bin\Debug\EZInput.dll
+D:\OOP-PD\Game\Game\bin\Debug\EZInput.xml
+D:\OOP-PD\Game\Game\obj\Debug\Game.csproj.AssemblyReference.cache
+D:\OOP-PD\Game\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+D:\OOP-PD\Game\Game\obj\Debug\Game.csproj.Up2Date
+D:\OOP-PD\Game\Game\obj\Debug\Game.exe
+D:\OOP-PD\Game\Game\obj\Debug\Game.pdb

@@ -5,3 +5,10 @@ C:\Users\HP\Desktop\C#\Busi_App\Application\Application\obj\Debug\Application.cs
 C:\Users\HP\Desktop\C#\Busi_App\Application\Application\obj\Debug\Application.csproj.CoreCompileInputs.cache
 C:\Users\HP\Desktop\C#\Busi_App\Application\Application\obj\Debug\Application.exe
 C:\Users\HP\Desktop\C#\Busi_App\Application\Application\obj\Debug\Application.pdb
+D:\OOP-PD\Application\Application\bin\Debug\Application.exe.config
+D:\OOP-PD\Application\Application\bin\Debug\Application.exe
+D:\OOP-PD\Application\Application\bin\Debug\Application.pdb
+D:\OOP-PD\Application\Application\obj\Debug\Application.csproj.AssemblyReference.cache
+D:\OOP-PD\Application\Application\obj\Debug\Application.csproj.CoreCompileInputs.cache
+D:\OOP-PD\Application\Application\obj\Debug\Application.exe
+D:\OOP-PD\Application\Application\obj\Debug\Application.pdb

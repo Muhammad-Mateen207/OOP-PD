@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\C#\PD-04(Task2)\PD-04(Task2)\bin\Debug\PD-04(Task2).exe.config
+C:\Users\HP\Desktop\C#\PD-04(Task2)\PD-04(Task2)\bin\Debug\PD-04(Task2).exe
+C:\Users\HP\Desktop\C#\PD-04(Task2)\PD-04(Task2)\bin\Debug\PD-04(Task2).pdb
+C:\Users\HP\Desktop\C#\PD-04(Task2)\PD-04(Task2)\obj\Debug\PD-04(Task2).csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\C#\PD-04(Task2)\PD-04(Task2)\obj\Debug\PD-04(Task2).csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C#\PD-04(Task2)\PD-04(Task2)\obj\Debug\PD-04(Task2).exe
+C:\Users\HP\Desktop\C#\PD-04(Task2)\PD-04(Task2)\obj\Debug\PD-04(Task2).pdb
+D:\OOP-PD\PD-4\PD-04(Task2)\PD-04(Task2)\bin\Debug\PD-04(Task2).exe.config
+D:\OOP-PD\PD-4\PD-04(Task2)\PD-04(Task2)\bin\Debug\PD-04(Task2).exe
+D:\OOP-PD\PD-4\PD-04(Task2)\PD-04(Task2)\bin\Debug\PD-04(Task2).pdb
+D:\OOP-PD\PD-4\PD-04(Task2)\PD-04(Task2)\obj\Debug\PD-04(Task2).csproj.AssemblyReference.cache
+D:\OOP-PD\PD-4\PD-04(Task2)\PD-04(Task2)\obj\Debug\PD-04(Task2).csproj.CoreCompileInputs.cache
+D:\OOP-PD\PD-4\PD-04(Task2)\PD-04(Task2)\obj\Debug\PD-04(Task2).exe
+D:\OOP-PD\PD-4\PD-04(Task2)\PD-04(Task2)\obj\Debug\PD-04(Task2).pdb

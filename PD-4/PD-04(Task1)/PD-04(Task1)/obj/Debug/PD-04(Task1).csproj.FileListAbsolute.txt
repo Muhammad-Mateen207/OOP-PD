@@ -1,0 +1,7 @@
+D:\OOP-PD\PD-4\PD-04(Task1)\PD-04(Task1)\bin\Debug\PD-04(Task1).exe.config
+D:\OOP-PD\PD-4\PD-04(Task1)\PD-04(Task1)\bin\Debug\PD-04(Task1).exe
+D:\OOP-PD\PD-4\PD-04(Task1)\PD-04(Task1)\bin\Debug\PD-04(Task1).pdb
+D:\OOP-PD\PD-4\PD-04(Task1)\PD-04(Task1)\obj\Debug\PD-04(Task1).csproj.AssemblyReference.cache
+D:\OOP-PD\PD-4\PD-04(Task1)\PD-04(Task1)\obj\Debug\PD-04(Task1).csproj.CoreCompileInputs.cache
+D:\OOP-PD\PD-4\PD-04(Task1)\PD-04(Task1)\obj\Debug\PD-04(Task1).exe
+D:\OOP-PD\PD-4\PD-04(Task1)\PD-04(Task1)\obj\Debug\PD-04(Task1).pdb
