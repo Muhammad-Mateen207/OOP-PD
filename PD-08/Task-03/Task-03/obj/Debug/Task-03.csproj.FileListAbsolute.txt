@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\C#\PD-08\Task-03\Task-03\bin\Debug\Task-03.exe.config
+C:\Users\HP\Desktop\C#\PD-08\Task-03\Task-03\bin\Debug\Task-03.exe
+C:\Users\HP\Desktop\C#\PD-08\Task-03\Task-03\bin\Debug\Task-03.pdb
+C:\Users\HP\Desktop\C#\PD-08\Task-03\Task-03\obj\Debug\Task-03.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\C#\PD-08\Task-03\Task-03\obj\Debug\Task-03.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C#\PD-08\Task-03\Task-03\obj\Debug\Task-03.exe
+C:\Users\HP\Desktop\C#\PD-08\Task-03\Task-03\obj\Debug\Task-03.pdb

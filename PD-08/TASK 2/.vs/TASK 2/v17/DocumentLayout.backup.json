@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\C#\\PD-08\\TASK 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D06068D-8D8E-4366-844A-1F26FCA3B9EF}|TASK 2\\TASK 2.csproj|c:\\users\\hp\\desktop\\c#\\pd-08\\task 2\\task 2\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D06068D-8D8E-4366-844A-1F26FCA3B9EF}|TASK 2\\TASK 2.csproj|solutionrelative:task 2\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D06068D-8D8E-4366-844A-1F26FCA3B9EF}|TASK 2\\TASK 2.csproj|C:\\Users\\HP\\Desktop\\C#\\PD-08\\TASK 2\\task 2\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D06068D-8D8E-4366-844A-1F26FCA3B9EF}|TASK 2\\TASK 2.csproj|solutionrelative:task 2\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D06068D-8D8E-4366-844A-1F26FCA3B9EF}|TASK 2\\TASK 2.csproj|c:\\users\\hp\\desktop\\c#\\pd-08\\task 2\\task 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D06068D-8D8E-4366-844A-1F26FCA3B9EF}|TASK 2\\TASK 2.csproj|solutionrelative:task 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D06068D-8D8E-4366-844A-1F26FCA3B9EF}|TASK 2\\TASK 2.csproj|C:\\Users\\HP\\Desktop\\C#\\PD-08\\TASK 2\\task 2\\hand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D06068D-8D8E-4366-844A-1F26FCA3B9EF}|TASK 2\\TASK 2.csproj|solutionrelative:task 2\\hand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Card.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\C#\\PD-08\\TASK 2\\TASK 2\\Card.cs",
+              "RelativeDocumentMoniker": "TASK 2\\Card.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\C#\\PD-08\\TASK 2\\TASK 2\\Card.cs",
+              "RelativeToolTip": "TASK 2\\Card.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAA9wDwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T12:49:44.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Deck.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\C#\\PD-08\\TASK 2\\TASK 2\\Deck.cs",
+              "RelativeDocumentMoniker": "TASK 2\\Deck.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\C#\\PD-08\\TASK 2\\TASK 2\\Deck.cs",
+              "RelativeToolTip": "TASK 2\\Deck.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwDEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T06:52:30.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\C#\\PD-08\\TASK 2\\TASK 2\\Program.cs",
+              "RelativeDocumentMoniker": "TASK 2\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\C#\\PD-08\\TASK 2\\TASK 2\\Program.cs",
+              "RelativeToolTip": "TASK 2\\Program.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAqwAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T06:51:49.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Hand.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\C#\\PD-08\\TASK 2\\TASK 2\\Hand.cs",
+              "RelativeDocumentMoniker": "TASK 2\\Hand.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\C#\\PD-08\\TASK 2\\TASK 2\\Hand.cs",
+              "RelativeToolTip": "TASK 2\\Hand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T06:52:40.261Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

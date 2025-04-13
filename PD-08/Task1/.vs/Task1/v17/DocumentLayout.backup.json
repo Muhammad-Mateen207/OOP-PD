@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\C#\\PD-08\\Task1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1667979-C0D2-48E4-B0B1-9CCE75570C7B}|Task1\\Task1.csproj|C:\\Users\\HP\\Desktop\\C#\\PD-08\\Task1\\task1\\ui\\staffui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1667979-C0D2-48E4-B0B1-9CCE75570C7B}|Task1\\Task1.csproj|solutionrelative:task1\\ui\\staffui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1667979-C0D2-48E4-B0B1-9CCE75570C7B}|Task1\\Task1.csproj|C:\\Users\\HP\\Desktop\\C#\\PD-08\\Task1\\task1\\bl\\staffbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1667979-C0D2-48E4-B0B1-9CCE75570C7B}|Task1\\Task1.csproj|solutionrelative:task1\\bl\\staffbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1667979-C0D2-48E4-B0B1-9CCE75570C7B}|Task1\\Task1.csproj|C:\\Users\\HP\\Desktop\\C#\\PD-08\\Task1\\task1\\ui\\studentui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1667979-C0D2-48E4-B0B1-9CCE75570C7B}|Task1\\Task1.csproj|solutionrelative:task1\\ui\\studentui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1667979-C0D2-48E4-B0B1-9CCE75570C7B}|Task1\\Task1.csproj|C:\\Users\\HP\\Desktop\\C#\\PD-08\\Task1\\task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1667979-C0D2-48E4-B0B1-9CCE75570C7B}|Task1\\Task1.csproj|solutionrelative:task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1667979-C0D2-48E4-B0B1-9CCE75570C7B}|Task1\\Task1.csproj|c:\\users\\hp\\desktop\\c#\\pd-08\\task1\\task1\\dl\\persondl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1667979-C0D2-48E4-B0B1-9CCE75570C7B}|Task1\\Task1.csproj|solutionrelative:task1\\dl\\persondl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1667979-C0D2-48E4-B0B1-9CCE75570C7B}|Task1\\Task1.csproj|C:\\Users\\HP\\Desktop\\C#\\PD-08\\Task1\\task1\\bl\\studentbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1667979-C0D2-48E4-B0B1-9CCE75570C7B}|Task1\\Task1.csproj|solutionrelative:task1\\bl\\studentbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1667979-C0D2-48E4-B0B1-9CCE75570C7B}|Task1\\Task1.csproj|C:\\Users\\HP\\Desktop\\C#\\PD-08\\Task1\\task1\\bl\\personbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1667979-C0D2-48E4-B0B1-9CCE75570C7B}|Task1\\Task1.csproj|solutionrelative:task1\\bl\\personbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StaffUI.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\C#\\PD-08\\Task1\\Task1\\UI\\StaffUI.cs",
+              "RelativeDocumentMoniker": "Task1\\UI\\StaffUI.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\C#\\PD-08\\Task1\\Task1\\UI\\StaffUI.cs",
+              "RelativeToolTip": "Task1\\UI\\StaffUI.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwBkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T05:37:44.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PersonDL.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\C#\\PD-08\\Task1\\Task1\\DL\\PersonDL.cs",
+              "RelativeDocumentMoniker": "Task1\\DL\\PersonDL.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\C#\\PD-08\\Task1\\Task1\\DL\\PersonDL.cs",
+              "RelativeToolTip": "Task1\\DL\\PersonDL.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T05:26:13.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentBL.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\C#\\PD-08\\Task1\\Task1\\BL\\StudentBL.cs",
+              "RelativeDocumentMoniker": "Task1\\BL\\StudentBL.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\C#\\PD-08\\Task1\\Task1\\BL\\StudentBL.cs",
+              "RelativeToolTip": "Task1\\BL\\StudentBL.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T05:17:10.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StaffBL.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\C#\\PD-08\\Task1\\Task1\\BL\\StaffBL.cs",
+              "RelativeDocumentMoniker": "Task1\\BL\\StaffBL.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\C#\\PD-08\\Task1\\Task1\\BL\\StaffBL.cs",
+              "RelativeToolTip": "Task1\\BL\\StaffBL.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwCwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T04:36:26.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PersonBL.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\C#\\PD-08\\Task1\\Task1\\BL\\PersonBL.cs",
+              "RelativeDocumentMoniker": "Task1\\BL\\PersonBL.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\C#\\PD-08\\Task1\\Task1\\BL\\PersonBL.cs",
+              "RelativeToolTip": "Task1\\BL\\PersonBL.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAQwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T04:34:06.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\C#\\PD-08\\Task1\\Task1\\Program.cs",
+              "RelativeDocumentMoniker": "Task1\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\C#\\PD-08\\Task1\\Task1\\Program.cs",
+              "RelativeToolTip": "Task1\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAiwBUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T03:20:58.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentUI.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\C#\\PD-08\\Task1\\Task1\\UI\\StudentUI.cs",
+              "RelativeDocumentMoniker": "Task1\\UI\\StudentUI.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\C#\\PD-08\\Task1\\Task1\\UI\\StudentUI.cs",
+              "RelativeToolTip": "Task1\\UI\\StudentUI.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwBoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T05:37:57.236Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
